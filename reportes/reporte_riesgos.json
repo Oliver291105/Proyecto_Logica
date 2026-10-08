@@ -1,0 +1,21 @@
+{
+    "total_riesgos": 2,
+    "riesgos": [
+        {
+            "modulo": "Cámara de detección",
+            "riesgo": "Sesgo en condiciones nocturnas",
+            "categoria": "Sesgo",
+            "impacto": "Alto",
+            "probabilidad": "Media",
+            "mitigacion": "Realizar pruebas con diferentes condiciones de iluminación"
+        },
+        {
+            "modulo": "Sistema de vigilancia",
+            "riesgo": "Uso inadecuado de información personal",
+            "categoria": "Privacidad",
+            "impacto": "Alto",
+            "probabilidad": "Media",
+            "mitigacion": "Aplicar controles de acceso y políticas de retención"
+        }
+    ]
+}
